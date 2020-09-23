@@ -1,0 +1,13 @@
+C:\Users\Justass\source\repos\OopExcercise\OopExcercise\bin\Debug\netcoreapp3.1\OopExcercise.exe
+C:\Users\Justass\source\repos\OopExcercise\OopExcercise\bin\Debug\netcoreapp3.1\OopExcercise.deps.json
+C:\Users\Justass\source\repos\OopExcercise\OopExcercise\bin\Debug\netcoreapp3.1\OopExcercise.runtimeconfig.json
+C:\Users\Justass\source\repos\OopExcercise\OopExcercise\bin\Debug\netcoreapp3.1\OopExcercise.runtimeconfig.dev.json
+C:\Users\Justass\source\repos\OopExcercise\OopExcercise\bin\Debug\netcoreapp3.1\OopExcercise.dll
+C:\Users\Justass\source\repos\OopExcercise\OopExcercise\bin\Debug\netcoreapp3.1\OopExcercise.pdb
+C:\Users\Justass\source\repos\OopExcercise\OopExcercise\obj\Debug\netcoreapp3.1\OopExcercise.csprojAssemblyReference.cache
+C:\Users\Justass\source\repos\OopExcercise\OopExcercise\obj\Debug\netcoreapp3.1\OopExcercise.AssemblyInfoInputs.cache
+C:\Users\Justass\source\repos\OopExcercise\OopExcercise\obj\Debug\netcoreapp3.1\OopExcercise.AssemblyInfo.cs
+C:\Users\Justass\source\repos\OopExcercise\OopExcercise\obj\Debug\netcoreapp3.1\OopExcercise.csproj.CoreCompileInputs.cache
+C:\Users\Justass\source\repos\OopExcercise\OopExcercise\obj\Debug\netcoreapp3.1\OopExcercise.dll
+C:\Users\Justass\source\repos\OopExcercise\OopExcercise\obj\Debug\netcoreapp3.1\OopExcercise.pdb
+C:\Users\Justass\source\repos\OopExcercise\OopExcercise\obj\Debug\netcoreapp3.1\OopExcercise.genruntimeconfig.cache
